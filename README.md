@@ -7,3 +7,6 @@ Technologies used:
 -> Firebase
 -> Tailwind CSS
 -> HTML and JS
+
+#npm install
+#npm start
